@@ -5,8 +5,8 @@
 
    ## Screenshot Aplikasi
 
-      ![Screenshot](Screenshot 2026-09-09 213810.png)
-      ![Screenshot](Screenshot 2026-09-09 214704.png)
+     ![Screenshot 1](<Screenshot 2026-09-09 213810.png>)
+     ![Screenshot 2](<Screenshot 2026-09-09 214704.png>)
 
    ---
 
