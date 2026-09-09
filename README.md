@@ -1,3 +1,14 @@
+   # MyFirstKMPApp
+
+   Nama: Divania Munthe
+   NIM:124140027
+
+   ## Screenshot Aplikasi
+
+   (screenshot ditaruh sini)
+
+   ---
+
 This is a Kotlin Multiplatform project targeting Android, Desktop (JVM).
 
 * [/shared](./shared/src) is for code that will be shared across your Compose Multiplatform applications.
